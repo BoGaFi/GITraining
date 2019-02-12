@@ -1,9 +1,5 @@
 bonjour
-<<<<<<< HEAD
 il pleut 
 deuxieme modification
 quatrieme modification
 avant creation de branche
-=======
-il neige
->>>>>>> git060
