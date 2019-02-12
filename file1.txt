@@ -1,5 +1,6 @@
 bonjour
-il pleut 
+<<<<<<< HEAD
+Il fait beau
 deuxieme modification
 quatrieme modification
 avant creation de branche
